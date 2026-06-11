@@ -39,8 +39,11 @@ Our calculator helps you:
 
 ---
 
-## 🚀 Try it now
-👉 https://www.cidrhub.com
+## 📚 Resources
+
+- 🌐 Tool: https://www.cidrhub.com  
+- 📘 Medium Guide  
+- 🧑‍💻 Dev.to Article  
 
 ---
 
