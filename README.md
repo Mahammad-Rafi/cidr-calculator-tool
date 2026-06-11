@@ -42,8 +42,7 @@ Our calculator helps you:
 ## 📚 Learn More
 
 - 🌐 Live Tool: https://www.cidrhub.com  
-- 📘 Medium Article: https://medium.com/your-article-link  
-- 🧑‍💻 Dev.to Guide: https://dev.to/your-article-link
+- 🧑‍💻 Dev.to Guide: [https://dev.to/your-article-link](https://dev.to/mahammad_rafi/i-built-a-cidr-calculator-for-cloud-networking-aws-azure-kubernetes-36oj)
 
 ---
 
