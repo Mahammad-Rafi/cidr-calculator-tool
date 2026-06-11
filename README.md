@@ -39,11 +39,11 @@ Our calculator helps you:
 
 ---
 
-## 📚 Resources
+## 📚 Learn More
 
-- 🌐 Tool: https://www.cidrhub.com  
-- 📘 Medium Guide  
-- 🧑‍💻 Dev.to Article  
+- 🌐 Live Tool: https://www.cidrhub.com  
+- 📘 Medium Article: https://medium.com/your-article-link  
+- 🧑‍💻 Dev.to Guide: https://dev.to/your-article-link
 
 ---
 
